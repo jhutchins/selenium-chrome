@@ -1,4 +1,4 @@
-FROM selenium/standalone-chrome:3.0.1-barium
+FROM selenium/standalone-chrome:latest
 
 USER root
 
